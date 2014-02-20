@@ -21,4 +21,4 @@ Import from Evernote or Google Docs would be great.
 I may try to write this myself some day but if you beat me to it, I will help beta test.
 
 Writing this as an HTML5 web app might be the way to go and make it compatible across devices.
-#geekworshipleader
+\#geekworshipleader
